@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/tetraelc.ico</file>
+        <file>pic/style.qss</file>
+    </qresource>
+</RCC>
